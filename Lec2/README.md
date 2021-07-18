@@ -1,4 +1,5 @@
 ## Lec 2
+- practice 파일은 강의 github코드를 그대로 가져온 것이다.
 - binary / multi-label classification
 
 ### 1. Logistic regression
